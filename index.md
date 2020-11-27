@@ -41,3 +41,5 @@ If your network gets targeted you want to quickly nullify all the attackers traf
 
 ## Security built in
 Complexity is the enemy of security. If security is hard to do, it won't get done. We have done all the hard work up front to make security so simple you wont know its there, but malacious actors will.
+
+![Screenshot](assets/img/security.jpg){:.lead width="192" height="108" loading="lazy"}
