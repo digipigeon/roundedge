@@ -45,6 +45,3 @@ Complexity is the enemy of security. If security is hard to do, it won't get don
 ![Screenshot](assets/img/security.jpg){:.lead width="192" height="108" loading="lazy"}
 
 
-
-{% include test.md %}
-
