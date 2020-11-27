@@ -36,11 +36,7 @@ Ever had 1 way audio problems, or a customer's NAT is being alkward. We do Far-E
 ## Audit & Change Rollback
 Its out of hours and a customer ask for an important change, you make it and poof things stopped working. You knew 5 minutes ago it was working fine, but how do you get back to a working state. With Snapshot and Revert any change that you can be rolled back to the last good known configuration and you need not panic.
 
-## Denial of Service Protection
-
 ![Screenshot](assets/img/service.jpg){:.lead width="192" height="108" loading="lazy"}
-
-## Security built in
 
 ![Screenshot](assets/img/security.jpg){:.lead width="192" height="108" loading="lazy"}
 
