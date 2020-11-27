@@ -4,7 +4,9 @@ title: Round Edge SBC
 description: >
   Round the Edges on your network
 last_modified_at: 2018-08-03
+hide_description: true
 ---
+
 # Round Edge SBC
 
 #### An best practice opinionated SBC.
@@ -13,12 +15,12 @@ ConnexCS is the first switch to make the help make the important decisions with 
 
 There is a plethora of complexity when it comes to VoIP Communications and some times getting things done seems to be a higher priority than doing things right. But with Round Edge SBC we let you do both of those at the same time and we make it more difficult to do things wrong. Some examples of this are:
 
-1: Number Normalisation
-2: Fraud Detection
-3: NAT Handeling
-4: Audit & Change Rollback
-5: DoS Protection
-6: Security Built-in
+- Number Normalisation
+- Fraud Detection
+- NAT Handeling
+- Audit & Change Rollback
+- DoS Protection
+- Security Built-in
 
 ## Normalization
 How do you write a phone number, does it start with a 0, a + or a 00 or the country code. We make sure that this is automatically handled for you. What about P-A-ID, are you dealing with that correctly, is it in the right format. With us it is and you don't need to think about it.
