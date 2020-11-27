@@ -36,5 +36,5 @@ Its out of hours and a customer ask for an important change, you make it and poo
 ## Denial of Service Protection
 If your network gets targeted you want to quickly nullify all the attackers traffic, if you need a human to do this, your have already lost packets. We detect and stop even the scouting traffic as well as do everything that can be done above the network layer to reduce processing any harmful packets.
 
-# Security built in
+## Security built in
 Complexity is the enemy of security. If security is hard to do, it won't get done. We have done all the hard work up front to make security so simple you wont know its there, but malacious actors will.
