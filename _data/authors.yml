@@ -23,9 +23,9 @@ author1:
       2x:            https://placehold.it/256x256
       
       
-  # Used at the bottom of each page and at the top of the `home` layout
+  # Used at the bottom of each page and at the top of the `index` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  home:             |
+  index:             |
     Normalization 
     How do you write a phone number, does it start with a 0, a + or a 00 or the country code. 
     We make sure that this is automatically handled for you. What about P-A-ID, are you dealing with that correctly, is it in the right format. 
