@@ -36,8 +36,8 @@ Ever had 1 way audio problems, or a customer's NAT is being alkward. We do Far-E
 ## Audit & Change Rollback
 Its out of hours and a customer ask for an important change, you make it and poof things stopped working. You knew 5 minutes ago it was working fine, but how do you get back to a working state. With Snapshot and Revert any change that you can be rolled back to the last good known configuration and you need not panic.
 
-![Screenshot](assets/img/service.jpg){:.lead width="192" height="108" loading="lazy"}
+## Denial of Service Protection
+If your network gets targeted you want to quickly nullify all the attackers traffic, if you need a human to do this, your have already lost packets. We detect and stop even the scouting traffic as well as do everything that can be done above the network layer to reduce processing any harmful packets.
 
-![Screenshot](assets/img/security.jpg){:.lead width="192" height="108" loading="lazy"}
-
-
+## Security built in
+Complexity is the enemy of security. If security is hard to do, it won't get done. We have done all the hard work up front to make security so simple you wont know its there, but malacious actors will.
